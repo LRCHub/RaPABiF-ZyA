@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイラブユーが足りないの - Re-Recording",
+  "base_artist": "ガラクタ",
+  "createdAt": "2026-02-08T11:46:24.266147Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイラブユーが足りないの",
+      "artist": "ガラクタ",
+      "has_synced": false,
+      "path": "select/pl_01_アイラブユーが足りないの_ガラクタ.txt"
+    }
+  ]
+}
